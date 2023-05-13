@@ -12,7 +12,7 @@ import io.ktor.client.request.*
 import io.ktor.http.*
 import java.nio.channels.UnresolvedAddressException
 
-// http client 생성 및 server request 구현
+// http client 생성 및 server request 구성
 class RestFulRepository {
     companion object {
         private const val TAG = "RestFulRepository"
